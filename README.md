@@ -17,13 +17,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zuwairiyamariyam&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Zuwairiyamariyam?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
-
-</div>
-
-<br/>
-
 ---
 
 ### 🧠 About Me
