@@ -169,19 +169,17 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 <div align="center">
 
-<table width="85%">
+<table width="70%">
 <tr>
-<td>
+<td align="center">
 
-<h3 align="center">✨ Thanks For Stopping By!</h3>
+<br/>
 
-<p align="justify">
-I appreciate you taking the time to explore my repositories and work. Whether it's about backend engineering, full-stack development, or potential collaborations, feel free to reach out through my contacts above.
-</p>
+### ✨ Thanks For Stopping By!
 
-<p align="center">
-<i>Have a productive and inspiring day!</i>
-</p>
+*Have a productive and inspiring day!*
+
+<br/>
 
 </td>
 </tr>
