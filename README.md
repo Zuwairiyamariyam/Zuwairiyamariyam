@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zuwairiya%20Mariyam%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Aspiring%20Java%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=50&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Building+Enterprise+Backend+APIs;Java+%2B+Spring+Boot+%2B+MySQL;Crafting+Modern+Full-Stack+Apps;Turning+Logic+into+Code" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=7C3AED&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Message-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zuwairiya%20Mariyam%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Aspiring%20Java%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=50&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Building+Enterprise+Backend+APIs;Java+%2B+Spring+Boot+%2B+MySQL;Crafting+Modern+Full-Stack+Web+Apps;Turning+Logic+into+Code" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -155,6 +147,24 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuwairiyamariyam&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&dates=0d1117" width="55%"/>
+
+</div>
+
+<br/>
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+
+*“Always eager to build, learn, and contribute to impactful projects; feel free to reach out, Thank You!”*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Message-7C3AED?style=for-the-badge)](mailto:zuwairiyamariyam2305@gmail.com)
 
 </div>
 
