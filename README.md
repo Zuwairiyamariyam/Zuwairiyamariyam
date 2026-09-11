@@ -71,7 +71,7 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 ### 🚀 Projects Spotlight
 
 <details open>
-<summary><b>🔹 SmartChit 360 — Mobile Financial Platform</b></summary>
+<summary><b>🔹 SmartChit 360 — Multitier Community Platform</b></summary>
 <br/>
 
 <p align="justify">
