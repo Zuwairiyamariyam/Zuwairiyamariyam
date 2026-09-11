@@ -177,18 +177,46 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zuwairiyamariyam)
+<p align="center">
+  I'm always open to discussing new software development opportunities, tech collaborations, or backend architecture!
+</p>
 
-<br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/><br/>
+        <sub><b>LinkedIn</b></sub><br/>
+        <sub>Let's Network</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:zuwairiyamariyam2305@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/><br/>
+        <sub><b>Email</b></sub><br/>
+        <sub>Drop a Mail</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Zuwairiyamariyam">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>
+        <sub><b>GitHub</b></sub><br/>
+        <sub>Explore Repos</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-*"First, solve the problem. Then, write the code."*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+> 💡 *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
 
 </div>
