@@ -161,7 +161,7 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuwairiyamariyam&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&hide_current_streak_date=true&hide_total_contributions_date=true" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuwairiyamariyam&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&date_format=%20" width="55%"/>
 
 </div>
 
