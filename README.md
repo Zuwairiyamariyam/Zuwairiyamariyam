@@ -4,13 +4,13 @@
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.E-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/based%20in-Ramanathapuram%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
+[![Degree](https://img.shields.io/badge/B.E-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/Zuwairiyamariyam)
+&nbsp;
+[![Location](https://img.shields.io/badge/Location-Ramanathapuram%2C%20IN-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Zuwairiyamariyam)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Message-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
 
 </div>
 
