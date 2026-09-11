@@ -177,46 +177,34 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 ---
 
-### 📫 Let's Connect & Collaborate
-
 <div align="center">
 
+### 📫 Get In Touch
+
 <p align="center">
-  I'm always open to discussing new software development opportunities, tech collaborations, or backend architecture!
+  <i>"Whether you want to discuss Spring Boot architecture, collaborate on a project, or just say hi — my inbox is always open!"</i>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/><br/>
-        <sub><b>LinkedIn</b></sub><br/>
-        <sub>Let's Network</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="mailto:zuwairiyamariyam2305@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/><br/>
-        <sub><b>Email</b></sub><br/>
-        <sub>Drop a Mail</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/Zuwairiyamariyam">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>
-        <sub><b>GitHub</b></sub><br/>
-        <sub>Explore Repos</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<a href="https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" height="38"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:zuwairiyamariyam2305@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" height="38"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Zuwairiyamariyam">
+  <img src="https://img.shields.io/badge/GitHub-Follow-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" height="38"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Dev Quote"/>
 
 <br/>
 
-> 💡 *"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
