@@ -2,15 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zuwairiya%20Mariyam%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Aspiring%20Java%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=50&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Building+Robust+Enterprise+Backend+APIs;Java+%2B+Spring+Boot+%2B+Microservices;Crafting+Modern+Full-Stack+Web+Apps;Turning+Logic+into+Scalable+Solutions" alt="Typing SVG" />
 
-<div align="center">
-
 <br/>
 
 [![Degree](https://img.shields.io/badge/B.E-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Zuwairiyamariyam)
 &nbsp;
 [![Location](https://img.shields.io/badge/Location-Ramanathapuram%2C%20IN-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Zuwairiyamariyam)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Message-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
 
