@@ -169,32 +169,14 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 <div align="center">
 
-### 📫 Get In Touch
+### ✨ Thanks For Stopping By!
 
-<p align="center">
-  <i>"Whether you want to discuss Spring Boot architecture, collaborate on a project, or just say hi — my inbox is always open!"</i>
-</p>
+I appreciate you taking the time to explore my repositories and work. Whether it's about backend engineering, full-stack development, or potential collaborations, feel free to reach out through my contacts above.
 
-<br/>
-
-<a href="https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" height="38"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:zuwairiyamariyam2305@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" height="38"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Zuwairiyamariyam">
-  <img src="https://img.shields.io/badge/GitHub-Follow-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" height="38"/>
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Dev Quote"/>
+Have a productive and inspiring day!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
