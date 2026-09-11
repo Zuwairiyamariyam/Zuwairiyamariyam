@@ -64,7 +64,10 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 
 </div>
 
+<br/>
+
 ---
+
 ### 🚀 Projects Spotlight
 
 <details open>
