@@ -169,14 +169,28 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 <div align="center">
 
-### ✨ Thanks For Stopping By!
+<div align="center">
 
-I appreciate you taking the time to explore my repositories and work. Whether it's about backend engineering, full-stack development, or potential collaborations, feel free to reach out through my contacts above.
-
-Have a productive and inspiring day!
+<table align="center" width="85%">
+  <tr>
+    <td align="center" style="padding: 24px;">
+      <br/>
+      <h3>✨ Thanks For Stopping By!</h3>
+      <p align="center">
+        I appreciate you taking the time to explore my repositories and work.<br/>
+        Whether it's about backend engineering, full-stack development, or potential collaborations,<br/>
+        feel free to reach out through my contacts above.
+      </p>
+      <p align="center">
+        <i>Have a productive and inspiring day!</i>
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 </div>
