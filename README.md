@@ -43,32 +43,27 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 
 <div align="center">
 
-**Backend & Databases**  
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+**Backend Development**
+
+| <img src="https://skillicons.dev/icons?i=java" width="45"/><br/><sub><b>Java</b></sub> | <img src="https://skillicons.dev/icons?i=spring" width="45"/><br/><sub><b>Spring Boot</b></sub> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"/><br/><sub><b>Hibernate</b></sub> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><sub><b>MySQL</b></sub> | <img src="https://skillicons.dev/icons?i=postman" width="45"/><br/><sub><b>REST APIs</b></sub> |
+| :---: | :---: | :---: | :---: | :---: |
 
 <br/>
 
-**Frontend Development**  
-![React](https://skillicons.dev/icons?i=react)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+**Frontend Development**
+
+| <img src="https://skillicons.dev/icons?i=react" width="45"/><br/><sub><b>React</b></sub> | <img src="https://skillicons.dev/icons?i=js" width="45"/><br/><sub><b>JavaScript</b></sub> | <img src="https://skillicons.dev/icons?i=html" width="45"/><br/><sub><b>HTML5</b></sub> | <img src="https://skillicons.dev/icons?i=css" width="45"/><br/><sub><b>CSS3</b></sub> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br/><sub><b>Bootstrap</b></sub> |
+| :---: | :---: | :---: | :---: | :---: |
 
 <br/>
 
-**Developer Tools & Testing**  
-![Postman](https://skillicons.dev/icons?i=postman)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![IntelliJ](https://skillicons.dev/icons?i=idea)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![Figma](https://skillicons.dev/icons?i=figma)
+**Developer Tools & Design**
+
+| <img src="https://skillicons.dev/icons?i=git" width="45"/><br/><sub><b>Git</b></sub> | <img src="https://skillicons.dev/icons?i=github" width="45"/><br/><sub><b>GitHub</b></sub> | <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/><sub><b>VS Code</b></sub> | <img src="https://skillicons.dev/icons?i=idea" width="45"/><br/><sub><b>IntelliJ</b></sub> | <img src="https://skillicons.dev/icons?i=eclipse" width="45"/><br/><sub><b>Eclipse</b></sub> | <img src="https://skillicons.dev/icons?i=figma" width="45"/><br/><sub><b>Figma</b></sub> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
+
 
 ### 🚀 Projects Spotlight
 
