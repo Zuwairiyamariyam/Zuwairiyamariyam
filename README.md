@@ -8,7 +8,7 @@
 &nbsp;
 [![Location](https://img.shields.io/badge/Location-Ramanathapuram%2C%20IN-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Zuwairiyamariyam)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&cacheSeconds=1)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzdjLTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODVjMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2IDIuMDYgMCAxIDEgLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMCAxIDIuMDYzIDIuMDY1bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNyAuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MWMuOTc5IDAgMS43NzgtLjc3MyAxLjc3OC0xLjcyOVYxLjcyOUMyNCAuNzc0IDIzLjIwOC4wIDIyLjIyNSAwIi8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Message-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
 
