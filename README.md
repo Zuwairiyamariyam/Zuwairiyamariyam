@@ -165,26 +165,6 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 </div>
 
----
-
-<div align="center">
-
-<table width="70%">
-<tr>
-<td align="center">
-
-<br/>
-
-### ✨ Thanks For Stopping By!
-
-*Have a productive and inspiring day!*
-
-<br/>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
