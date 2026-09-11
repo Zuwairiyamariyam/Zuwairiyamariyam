@@ -66,7 +66,6 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![Git](https://skillicons.dev/icons?i=git)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 </div>
