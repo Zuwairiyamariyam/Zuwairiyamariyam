@@ -26,9 +26,11 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-Computer Science undergraduate specializing in **Java Full Stack Development** with hands-on proficiency in **Spring Boot, Hibernate, React.js, and MySQL**. Passionate about engineering robust RESTful APIs, architecting secure data-driven backend services, and crafting responsive user interfaces.
+<p align="justify">
+Computer Science undergraduate specializing in <b>Java Full Stack Development</b> with hands-on proficiency in <b>Spring Boot, Hibernate, React.js, and MySQL</b>. Passionate about engineering robust RESTful APIs, architecting secure data-driven backend services, and crafting responsive user interfaces.
+</p>
 
 * 🎯 **Core Focus:** Java Backend · REST APIs · Microservices · Full-Stack Web Development
 * 🎓 **Education:** B.E. in Computer Science & Engineering, Syed Ammal Engineering College (CGPA: 8.64)
@@ -37,25 +39,38 @@ Computer Science undergraduate specializing in **Java Full Stack Development** w
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Backend & Databases
+**Backend & Databases**
+
+<br/>
+
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frontend Development
+<br/><br/>
+
+**Frontend Development**
+
+<br/>
+
 ![React](https://skillicons.dev/icons?i=react)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-### Developer Tools & Testing
+<br/><br/>
+
+**Developer Tools & Testing**
+
+<br/>
+
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
@@ -67,13 +82,15 @@ Computer Science undergraduate specializing in **Java Full Stack Development** w
 
 ---
 
-## 🚀 Projects Spotlight
+### 🚀 Projects Spotlight
 
 <details open>
 <summary><b>🔹 SmartChit 360 — Mobile Financial Platform</b></summary>
 <br/>
 
+<p align="justify">
 Cross-platform mobile financial application featuring rotational chits, micro-loans, and jewellery gold savings schemes.
+</p>
 
 * **Tech Stack:** Java, Spring Boot, React Native, Hibernate, MySQL, REST APIs, JWT
 * **Key Features:** Automated turn swapping logic, flat-rate EMI calculations, daily gold rate conversion, and SHA-256 digital receipts.
@@ -88,7 +105,9 @@ Cross-platform mobile financial application featuring rotational chits, micro-lo
 <summary><b>🔹 Hostel Complaint Portal — Full-Stack Management System</b></summary>
 <br/>
 
+<p align="justify">
 Full-stack complaint management system enabling students to submit, track, and receive updates on hostel amenities and room maintenance.
+</p>
 
 * **Tech Stack:** Java, Spring Boot, React, Hibernate, MySQL, REST APIs
 * **Key Features:** Role-based student and admin workflows, real-time status tracking, notification alerts, and room management.
@@ -103,7 +122,9 @@ Full-stack complaint management system enabling students to submit, track, and r
 <summary><b>🔹 Dreamy Dough — Full-Stack Web Application</b></summary>
 <br/>
 
+<p align="justify">
 Responsive cake ordering e-commerce platform with product catalogs, dynamic cart handling, and multi-mode payment workflows.
+</p>
 
 * **Tech Stack:** Java, Servlets, JDBC, MySQL, HTML5, CSS3, JavaScript
 * **Key Features:** Product browsing, shopping cart, QR-based digital payments (GPay/PhonePe), Cash on Delivery, and automated order processing.
@@ -118,7 +139,9 @@ Responsive cake ordering e-commerce platform with product catalogs, dynamic cart
 <summary><b>🔹 SAEC College Website — UI/UX Design System</b></summary>
 <br/>
 
+<p align="justify">
 High-fidelity interactive prototype focused on responsive layout, accessibility, and improved usability for students and faculty.
+</p>
 
 * **Tech Stack:** Figma, UI/UX Design, Interactive Prototyping
 * **Key Features:** User-centered navigation, modern aesthetic, accessibility-first design components, and comprehensive design systems.
@@ -127,7 +150,7 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 ---
 
-## 💼 Experience & Internships
+### 💼 Experience & Internships
 
 * **Java Programming Intern** | Le Success *(July 2025)*
   * Built backend logic, worked with object-oriented paradigms, and developed enterprise application modules.
@@ -136,7 +159,7 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
 * **Master in Full Stack: Java** — Fita Academy
 * **Solution Architecture Job Simulation** — Forage (AWS)
@@ -145,7 +168,7 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 ---
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 
 * **Learning:** Microservices Architecture using Spring Cloud & Enterprise Security (OAuth2 / JWT)
 * **Building:** End-to-end full-stack applications with Spring Boot and React
@@ -153,7 +176,7 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -166,7 +189,7 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
 
