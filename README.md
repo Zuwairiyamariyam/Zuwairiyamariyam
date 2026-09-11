@@ -169,25 +169,20 @@ High-fidelity interactive prototype focused on responsive layout, accessibility,
 
 <div align="center">
 
-<div align="center">
-
-<table align="center" width="85%">
-  <tr>
-    <td align="center" style="padding: 24px;">
-      <br/>
-      <h3>✨ Thanks For Stopping By!</h3>
-      <p align="center">
-        I appreciate you taking the time to explore my repositories and work.<br/>
-        Whether it's about backend engineering, full-stack development, or potential collaborations,<br/>
-        feel free to reach out through my contacts above.
-      </p>
-      <p align="center">
-        <i>Have a productive and inspiring day!</i>
-      </p>
-      <br/>
-    </td>
-  </tr>
-</table>
+<svg width="100%" max-width="780" height="150" viewBox="0 0 780 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="778" height="148" rx="12" fill="#0d1117" stroke="#7C3AED" stroke-width="1.5" stroke-opacity="0.8"/>
+  <text x="390" y="38" text-anchor="middle" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">
+    ✨ Thanks For Stopping By!
+  </text>
+  <foreignObject x="30" y="48" width="720" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13.5px; text-align: justify; line-height: 1.6;">
+      I appreciate you taking the time to explore my repositories and work. Whether it's about backend engineering, full-stack development, or potential collaborations, feel free to reach out through my contacts above.
+    </div>
+  </foreignObject>
+  <text x="390" y="130" text-anchor="middle" fill="#8B5CF6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-style="italic">
+    Have a productive and inspiring day!
+  </text>
+</svg>
 
 <br/>
 
