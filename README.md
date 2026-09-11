@@ -45,21 +45,21 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 
 **Backend Development**
 
-| <img src="https://skillicons.dev/icons?i=java" width="45"/><br/><sub><b>Java</b></sub> | <img src="https://skillicons.dev/icons?i=spring" width="45"/><br/><sub><b>Spring Boot</b></sub> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"/><br/><sub><b>Hibernate</b></sub> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><sub><b>MySQL</b></sub> | <img src="https://skillicons.dev/icons?i=postman" width="45"/><br/><sub><b>REST APIs</b></sub> |
+| <img src="https://skillicons.dev/icons?i=java" width="48"/> | <img src="https://skillicons.dev/icons?i=spring" width="48"/> | <img src="https://skillicons.dev/icons?i=hibernate" width="48"/> | <img src="https://skillicons.dev/icons?i=mysql" width="48"/> | <img src="https://skillicons.dev/icons?i=postman" width="48"/> |
 | :---: | :---: | :---: | :---: | :---: |
 
 <br/>
 
 **Frontend Development**
 
-| <img src="https://skillicons.dev/icons?i=react" width="45"/><br/><sub><b>React</b></sub> | <img src="https://skillicons.dev/icons?i=js" width="45"/><br/><sub><b>JavaScript</b></sub> | <img src="https://skillicons.dev/icons?i=html" width="45"/><br/><sub><b>HTML5</b></sub> | <img src="https://skillicons.dev/icons?i=css" width="45"/><br/><sub><b>CSS3</b></sub> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br/><sub><b>Bootstrap</b></sub> |
+| <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://skillicons.dev/icons?i=js" width="48"/> | <img src="https://skillicons.dev/icons?i=html" width="48"/> | <img src="https://skillicons.dev/icons?i=css" width="48"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/> |
 | :---: | :---: | :---: | :---: | :---: |
 
 <br/>
 
 **Developer Tools & Design**
 
-| <img src="https://skillicons.dev/icons?i=git" width="45"/><br/><sub><b>Git</b></sub> | <img src="https://skillicons.dev/icons?i=github" width="45"/><br/><sub><b>GitHub</b></sub> | <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/><sub><b>VS Code</b></sub> | <img src="https://skillicons.dev/icons?i=idea" width="45"/><br/><sub><b>IntelliJ</b></sub> | <img src="https://skillicons.dev/icons?i=eclipse" width="45"/><br/><sub><b>Eclipse</b></sub> | <img src="https://skillicons.dev/icons?i=figma" width="45"/><br/><sub><b>Figma</b></sub> |
+| <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=vscode" width="48"/> | <img src="https://skillicons.dev/icons?i=idea" width="48"/> | <img src="https://skillicons.dev/icons?i=eclipse" width="48"/> | <img src="https://skillicons.dev/icons?i=figma" width="48"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
