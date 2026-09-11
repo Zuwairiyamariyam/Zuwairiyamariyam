@@ -59,7 +59,7 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 
 **Tools & IDEs**
 
-| <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=vscode" width="48"/> | <img src="https://skillicons.dev/icons?i=idea" width="48"/> | <img src="https://skillicons.dev/icons?i=eclipse" width="48"/> | <img src="https://skillicons.dev/icons?i=figma" width="48"/> |
+| <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=vscode" width="48"/> | <img src="https://skillicons.dev/icons?i=idea" width="48"/> | <img src="https://skillicons.dev/icons?i=eclipse" width="48"/> | <img src="https://skillicons.dev/icons?i=figma" width="48"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
