@@ -43,34 +43,25 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 
 <div align="center">
 
-**Backend & Databases**
-
-<br/>
-
+**Backend & Databases**  
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br/><br/>
-
-**Frontend Development**
-
 <br/>
 
+**Frontend Development**  
 ![React](https://skillicons.dev/icons?i=react)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-<br/><br/>
-
-**Developer Tools & Testing**
-
 <br/>
 
+**Developer Tools & Testing**  
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
@@ -79,8 +70,6 @@ Computer Science undergraduate specializing in <b>Java Full Stack Development</b
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 </div>
-
----
 
 ### 🚀 Projects Spotlight
 
