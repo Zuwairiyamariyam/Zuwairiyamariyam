@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zuwairiya%20Mariyam%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Aspiring%20Java%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=50&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Building+Robust+Enterprise+Backend+APIs;Java+%2B+Spring+Boot+%2B+Microservices;Crafting+Modern+Full-Stack+Web+Apps;Turning+Logic+into+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zuwairiya%20Mariyam%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Aspiring%20Java%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=50&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Building+Enterprise+Backend+APIs;Java+%2B+Spring+Boot+%2B+MySQL;Crafting+Modern+Full-Stack+Apps;Turning+Logic+into+Code" alt="Typing SVG" />
 
 <br/>
 
-[![Degree](https://img.shields.io/badge/B.E-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Zuwairiyamariyam)
-&nbsp;
-[![Location](https://img.shields.io/badge/Location-Ramanathapuram%2C%20IN-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Zuwairiyamariyam)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzdjLTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODVjMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2IDIuMDYgMCAxIDEgLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMCAxIDIuMDYzIDIuMDY1bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNyAuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MWMuOTc5IDAgMS43NzgtLjc3MyAxLjc3OC0xLjcyOVYxLjcyOUMyNCAuNzc0IDIzLjIwOC4wIDIyLjIyNSAwIi8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=7C3AED&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Message-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
 
