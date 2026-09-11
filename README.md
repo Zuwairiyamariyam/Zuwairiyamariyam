@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zuwairiya%20Mariyam%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Java%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Robust+Enterprise+Backend+APIs;Java+%2B+Spring+Boot+%2B+Microservices;Crafting+Modern+Full-Stack+Web+Apps;Turning+Logic+into+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zuwairiya%20Mariyam%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Java%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Building+Robust+Enterprise+Backend+APIs;Java+%2B+Spring+Boot+%2B+Microservices;Crafting+Modern+Full-Stack+Web+Apps;Turning+Logic+into+Scalable+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuwairiya-mariyam-r-250b172a1/)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuwairiyamariyam2305@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zuwairiyamariyam)
 
 </div>
 
